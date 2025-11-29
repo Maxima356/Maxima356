@@ -27,10 +27,6 @@ Apparatus escape music - Tower Unite tribute
 
 [![Thunderstore](https://img.shields.io/badge/Download-Thunderstore-success?style=flat-square)](https://thunderstore.io/c/lethal-company/p/Maxima356/TriviaEscapeMusic/)
 
-## 📊 GitHub Stats
-
-![Maxima356's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxima356&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
 ## 🛠️ Technologies
 
 ![BepInEx](https://img.shields.io/badge/BepInEx-Modding-blueviolet?style=flat-square)
