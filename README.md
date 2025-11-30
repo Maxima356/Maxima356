@@ -89,6 +89,17 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maxima356&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file) 
 
+---
+## 🤝 Aide & Contributions
 
+Toujours prêt à partager mon expérience et à débloquer les situations complexes sur les projets communautaires.
+</div>
+<div>
+
+* [**apiEnedis**](https://github.com/saniho/apiEnedis/issues/250#issuecomment-3408068872) : Aide sur la configuration et la résolution des problèmes liés à l'intégration de l'API Enedis.
+* [**PG108 (localtuya)**](https://github.com/rospogrigio/localtuya/issues/1383#issuecomment-3417399112) : Support et clarification des problèmes liés au module Tuya PG108 dans localtuya.
+
+</div>
+<div align="center">
 <img src="https://camo.githubusercontent.com/786c0b89447ab7b820ac4bf393ab2f4289b0054c0caa83981a14ba945ed1bf84/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3263333735302c3130303a373061326666266865696768743d3132302673656374696f6e3d666f6f746572" alt="Footer" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c3750,100:70a2ff&amp;height=120&amp;section=footer" style="max-width: 100%;">
 </div>
