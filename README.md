@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://camo.githubusercontent.com/7d8b94fbf53c901967eee27ccce91d2ca1230b81cec58b732197930004fce855/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3263333735302c3130303a373061326666266865696768743d3137352673656374696f6e3d686561646572" alt="Header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c3750,100:70a2ff&amp;height=175&amp;section=header" style="max-width: 100%;">
 
 # 👋 Yo, c'est Maxima356
 
@@ -41,6 +42,7 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
 **Virtualisation & Système**
 <p align="left">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Windows-0D68D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -51,7 +53,7 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
 <p align="left">
   <img src="https://img.shields.io/badge/OpenWRT-005C94?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWRT"/>
   <img src="https://img.shields.io/badge/Cloudflared-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflared"/>
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=WireGuard&logoColor=white" alt="Wireguard"/>
+  <img src="https://img.shields.io/badge/LuCI-8A2BE2?style=for-the-badge&logo=LuCI&logoColor=white" alt="LuCI"/>
   <img src="https://img.shields.io/badge/ZeroTier-F4A909?style=for-the-badge&logo=zerotier&logoColor=black" alt="ZeroTier"/>
 </p>
 
@@ -73,7 +75,7 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
 </a>
 </p>
 
-### 🏆 Achievement
+## 🏆 Achievement
 </div>
 <div align="center">
  
@@ -81,4 +83,6 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maxima356&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file) 
 
+
+<img src="https://camo.githubusercontent.com/786c0b89447ab7b820ac4bf393ab2f4289b0054c0caa83981a14ba945ed1bf84/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3263333735302c3130303a373061326666266865696768743d3132302673656374696f6e3d666f6f746572" alt="Footer" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c3750,100:70a2ff&amp;height=120&amp;section=footer" style="max-width: 100%;">
 </div>
