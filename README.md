@@ -68,6 +68,17 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
   <img src="https://img.shields.io/badge/PufferPanel-282A36?style=for-the-badge&logo=gamepad&logoColor=white" alt="PufferPanel"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/BepInEx-Modding-blueviolet?style=for-the-badge" alt="BepInEx"/>
-  <img src="https://img.shields.io/badge/Audio-OGG%20%2F%20WAV-orange?style=for-the-badge" alt="Audio"/>
+<a href="https://www.planetminecraft.com/member/maxima356/">
+  <img src="https://img.shields.io/badge/PlanetMinecraft-458EEB?style=for-the-badge&logo=minecraft&logoColor=white" alt="PlanetMinecraft"/>
+</a>
 </p>
+
+### 🏆 Achievement
+</div>
+<div align="center">
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Maxima356&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maxima356&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file) 
+
 </div>
