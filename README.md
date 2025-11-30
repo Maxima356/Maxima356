@@ -47,6 +47,7 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/OpenMediaVault-006CBA?style=for-the-badge&logo=openmediavault&logoColor=white" alt="OMV"/>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/PufferPanel-282A36?style=for-the-badge&logo=gamepad&logoColor=white" alt="PufferPanel"/>
 </p>
 
 **Networking & Secu**
@@ -74,7 +75,6 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
 
 **Services & Modding Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/PufferPanel-282A36?style=for-the-badge&logo=gamepad&logoColor=white" alt="PufferPanel"/>
   <img src="https://img.shields.io/badge/BepInEx-Modding-blueviolet?style=for-the-badge" alt="BepInEx"/>
 <a href="https://www.planetminecraft.com/member/maxima356/">
   <img src="https://img.shields.io/badge/PlanetMinecraft-458EEB?style=for-the-badge&logo=minecraft&logoColor=white" alt="PlanetMinecraft"/>
