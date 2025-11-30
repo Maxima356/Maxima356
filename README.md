@@ -42,18 +42,18 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
 **Virtualisation & Système**
 <p align="left">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  <img src="https://img.shields.io/badge/Windows-0D68D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/OpenMediaVault-006CBA?style=for-the-badge&logo=openmediavault&logoColor=white" alt="OMV"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 **Networking & Secu**
 <p align="left">
   <img src="https://img.shields.io/badge/OpenWRT-005C94?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWRT"/>
+  <img src="https://img.shields.io/badge/LuCI-000000?style=for-the-badge&logo=luci&logoColor=white" alt="LuCI"/>
   <img src="https://img.shields.io/badge/Cloudflared-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflared"/>
-  <img src="https://img.shields.io/badge/LuCI-8A2BE2?style=for-the-badge&logo=LuCI&logoColor=white" alt="LuCI"/>
   <img src="https://img.shields.io/badge/ZeroTier-F4A909?style=for-the-badge&logo=zerotier&logoColor=black" alt="ZeroTier"/>
 </p>
 
@@ -65,10 +65,16 @@ Là où la magie opère. Tout est self-hosted, tout est contrôlé.
   <img src="https://img.shields.io/badge/Hardware-UART%20%2F%20Flashing-555555?style=for-the-badge&logo=arduino&logoColor=white" alt="UART Flashing"/>
 </p>
 
+**Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003543?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AE?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
+</p>
+
 **Services & Modding Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/PufferPanel-282A36?style=for-the-badge&logo=gamepad&logoColor=white" alt="PufferPanel"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/BepInEx-Modding-blueviolet?style=for-the-badge" alt="BepInEx"/>
 <a href="https://www.planetminecraft.com/member/maxima356/">
   <img src="https://img.shields.io/badge/PlanetMinecraft-458EEB?style=for-the-badge&logo=minecraft&logoColor=white" alt="PlanetMinecraft"/>
